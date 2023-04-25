@@ -1,2 +1,2 @@
 # Data_Science_Zero_to_Mastery
-https://academy.zerotomastery.io/
+https://zerotomastery.io/courses/machine-learning-and-data-science-bootcamp/
